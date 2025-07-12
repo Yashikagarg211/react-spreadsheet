@@ -61,7 +61,7 @@ Open http://localhost:5173 to view the app.
 
 🌐 Deployment
 This app is deployed using Vercel.
-➤ Live Site: https://your-project-name.vercel.app
+➤ Live Link: https://react-spreadsheet-taupe.vercel.app/
 
 To deploy yourself:
 Push the project to GitHub
