@@ -48,7 +48,7 @@ A **pixel-perfect**, spreadsheet-style web app built with **React 18**, **TypeSc
 
 ### 1. Clone the Repository
 <pre>bash
-git clone https://github.com/Yashikagarg211/react-spreadsheet-ui.git
+git clone https://github.com/Yashikagarg211/react-spreadsheet.git
 cd react-spreadsheet-ui
 </pre>
 
